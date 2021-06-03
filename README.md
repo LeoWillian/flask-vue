@@ -25,7 +25,7 @@ Check out the [post](https://testdriven.io/developing-a-single-page-app-with-fla
     ```sh
     $ cd client
     $ npm install
-    $ npm run serve
+    $ npm run serve / dev
     ```
 
     Navigate to [http://localhost:8080](http://localhost:8080)
